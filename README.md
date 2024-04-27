@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### About me
+
+Seasoned Polyglot Full Stack Developer with expertise in architecting scalable and resilient system solutions, adept at implementing the latest cutting-edge technologies for cloud and on-premises environments.
+
 <!--
 **narayan-khanna/narayan-khanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
